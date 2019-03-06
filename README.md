@@ -5,3 +5,4 @@ Here is a sync test
 
 
 Bizarre ...
+Vraiment Bizarre
